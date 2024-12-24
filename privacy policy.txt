@@ -1,0 +1,34 @@
+Privacy Policy
+Effective Date: [24-12-2024]
+1. Introduction
+Family Tracker App respects your privacy and is committed to protecting it through this privacy policy. This policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (“App”). Please read this policy carefully to understand our practices regarding your information.
+2. Information We Collect
+We collect the following types of information:
+2.1. Personal Information:
+•	Group Identification Number: A unique common number provided by the group members to create and join groups.
+•	Nicknames: User-provided nicknames that appear on the app.
+2.2. Location Data:
+•	GPS location data is collected in real time to share your location with other members in your group. This data is only visible to members of the same group.
+3. How We Use Your Information
+We use the information collected to:
+•	Facilitate group creation and communication among family members.
+•	Share real-time GPS location data with group members.
+•	Improve, personalize, and enhance the app experience.
+•	Provide customer support and troubleshoot issues.
+4. Sharing Your Information
+We do not sell or share your personal information with third parties, except in the following cases:
+•	Group Members: Your GPS location and nickname are shared only within your group.
+5. Data Security
+We implement reasonable measures to protect your information from unauthorized access, disclosure, or alteration. However, no method of transmission over the internet or electronic storage is completely secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+6. User Choices
+You have the following choices regarding your information:
+•	Location Data: You can disable location services through your device settings, but this will limit the app’s functionality.
+•	Account Information: You can update or delete your nickname and group membership through the app’s settings.
+7. Children’s Privacy
+Our app is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected information from a child under 13, we will take steps to delete it.
+8. Changes to This Privacy Policy
+We may update this privacy policy from time to time. If we make significant changes, we will notify you through the app or by other means prior to the changes becoming effective. Your continued use of the app after the changes are made will constitute your acknowledgment of the changes.
+9. Contact Us
+If you have any questions or concerns about this privacy policy or our data practices, please contact us at:
+[WhatsApp/Call - +919893825132, manishsmartkuti@gmail.com]
+________________________________________
